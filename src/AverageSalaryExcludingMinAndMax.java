@@ -1,5 +1,3 @@
-package leetcode.src;
-
 import java.util.Arrays;
 
 /**
