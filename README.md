@@ -10,6 +10,7 @@ LeetCode
 
 ### Misc
 
-| # | Title | Code
+| # | Title | Code |
+|---| ----- | ---- |
 |1| Priority Queue Testing | [Java](./src/main/PriorityQueueTesting.java)
 |2| Rhino Math Problem | [Java](./src/main/RhinoMathProblem.java)
