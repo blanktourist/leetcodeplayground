@@ -21,3 +21,4 @@ LeetCode
 |2| Rhino Math Problem | [Java](./src/main/RhinoMathProblem.java)
 |3| Connect Four | [Java](./src/main/ConnectFour.java)
 |4| Dijkstra's with directed graph and adjacency list | [Java](./src/main/Dijkstra.java)
+|5| Prim's with directed graph and adjacency list | [Java](./src/main/Prim.java)
