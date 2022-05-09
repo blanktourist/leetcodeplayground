@@ -1,6 +1,7 @@
 package main;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 
@@ -44,6 +45,7 @@ public class FileSystem {
 
         outputs.addAll(new ArrayList<String>(pointer.subDirectories.keySet()));
         outputs.addAll(new ArrayList<String>(pointer.files.keySet()));
+        Collections.sort(outputs);
         return outputs;
     }
 
