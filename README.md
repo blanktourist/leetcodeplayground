@@ -20,3 +20,4 @@ LeetCode
 |1| Priority Queue Testing | [Java](./src/main/PriorityQueueTesting.java)
 |2| Rhino Math Problem | [Java](./src/main/RhinoMathProblem.java)
 |3| Connect Four | [Java](./src/main/ConnectFour.java)
+|4| Dijkstra's with directed graph and adjacency list | [Java](./src/main/Dijkstra.java)
