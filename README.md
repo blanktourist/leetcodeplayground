@@ -22,3 +22,4 @@ LeetCode
 |3| Connect Four | [Java](./src/main/ConnectFour.java)
 |4| Dijkstra's with directed graph and adjacency list | [Java](./src/main/Dijkstra.java)
 |5| Prim's with directed graph and adjacency list | [Java](./src/main/Prim.java)
+|6| Currency Conversion | [Java](./src/main/CurrencyConversion.java)
