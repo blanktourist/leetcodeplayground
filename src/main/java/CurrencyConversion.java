@@ -1,5 +1,5 @@
 // Original source: https://leetcode.com/discuss/interview-question/483660/Google-or-Phone-or-Currency-Conversion/528577
-package main;
+package main.java;
 
 import java.util.ArrayList;
 import java.util.HashMap;

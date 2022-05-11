@@ -1,6 +1,6 @@
 // Original source: https://ssaurel.medium.com/creating-a-connect-four-game-in-java-f45356f1d6ba
 // I (Blanktourist) modified it to fit my style
-package main;
+package main.java;
 
 import java.util.Arrays;
 import java.util.Scanner;

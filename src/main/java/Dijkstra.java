@@ -1,5 +1,5 @@
 // Original source: https://www.baeldung.com/java-dijkstra
-package main;
+package main.java;
 
 import java.util.ArrayList;
 import java.util.Arrays;
