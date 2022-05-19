@@ -12,6 +12,14 @@ LeetCode
 |4|[Average Salary Excluding Min And Max](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)|[Java](./src/main/java/AverageSalaryExcludingMinAndMax.java)|Easy|-
 |5|[Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system/)|[Java](./src/main/java/FileSystem.java)|Hard|-
 |6|[Design Browser History](https://leetcode.com/problems/design-browser-history/)|[Java](./src/main/java/BrowserHistory.java)|Medium|-
+|7| Connect Four | [Java](./src/main/java/ConnectFour.java) | - | -
+|8| Currency Conversion | [Java](./src/main/java/CurrencyConversion.java) | - | -
+
+### Theoretical
+| # | Title | Solution | Difficulty | Video Solution |
+|---| ----- | -------- | ---------- | -------------- |
+|1| Dijkstra's with directed graph and adjacency list | [Java](./src/main/java/Dijkstra.java) | - | -
+|2| Prim's with directed graph and adjacency list | [Java](./src/main/java/Prim.java) | - | -
 
 ### Misc
 
@@ -19,7 +27,3 @@ LeetCode
 |---| ----- | ---- |
 |1| Priority Queue Testing | [Java](./src/main/java/PriorityQueueTesting.java)
 |2| Rhino Math Problem | [Java](./src/main/java/RhinoMathProblem.java)
-|3| Connect Four | [Java](./src/main/java/ConnectFour.java)
-|4| Dijkstra's with directed graph and adjacency list | [Java](./src/main/java/Dijkstra.java)
-|5| Prim's with directed graph and adjacency list | [Java](./src/main/java/Prim.java)
-|6| Currency Conversion | [Java](./src/main/java/CurrencyConversion.java)
