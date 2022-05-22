@@ -14,6 +14,7 @@ LeetCode
 |6|[Design Browser History](https://leetcode.com/problems/design-browser-history/)|[Java](./src/main/java/BrowserHistory.java)|Medium|-
 |7| Connect Four | [Java](./src/main/java/ConnectFour.java) | - | -
 |8| Currency Conversion | [Java](./src/main/java/CurrencyConversion.java) | - | -
+|9| Regular Expression Matching | [Java](./src/main/java/RegularExpressionMatching.java) | Hard | -
 
 ### Theoretical
 | # | Title | Solution | Difficulty | Video Solution |
