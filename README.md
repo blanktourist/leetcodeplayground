@@ -32,3 +32,6 @@ LeetCode
 |1| Priority Queue Testing | [Java](./src/main/java/PriorityQueueTesting.java)
 |2| Rhino Math Problem | [Java](./src/main/java/RhinoMathProblem.java)
 |3| Array Testing | [Java](./src/main/java/ArrayTesting.java)
+|4| Priority Queue Testing | [Java](./src/main/java/PriorityQueueTesting.java)
+|4| TreeSet Testing | [Java](./src/main/java/TreeSetTesting.java)
+|4| TreeSet HashMap Testing | [Java](./src/main/java/TreeSetHashMapTesting.java)
