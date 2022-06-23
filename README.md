@@ -15,7 +15,7 @@ LeetCode
 |7| Connect Four | [Java](./src/main/java/ConnectFour.java) | - | -
 |8| Currency Conversion | [Java](./src/main/java/CurrencyConversion.java) | - | -
 |9| [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [Java](./src/main/java/RegularExpressionMatching.java) | Hard | -
-|10| [Restore IP Address](https://leetcode.com/problems/restore-ip-addresses/) | - | Medium | -
+|10| [Restore IP Address](https://leetcode.com/problems/restore-ip-addresses/) | [Java](./src/main/java/RestoreIPAddresses.java) | Medium | -
 |11| [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | - | Medium | -
 |12| [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | - | Medium | -
 
