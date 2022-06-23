@@ -17,7 +17,7 @@ LeetCode
 |9| [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [Java](./src/main/java/RegularExpressionMatching.java) | Hard | -
 |10| [Restore IP Address](https://leetcode.com/problems/restore-ip-addresses/) | [Java](./src/main/java/RestoreIPAddresses.java) | Medium | -
 |11| [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | - | Medium | -
-|12| [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | - | Medium | -
+|12| [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Java](./src/main/java/GenerateParentheses.java) | Medium | -
 
 ### Theoretical
 | # | Title | Solution | Difficulty | Video Solution |
