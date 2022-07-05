@@ -1,7 +1,7 @@
 package main.java;
 import java.util.HashSet;
 
-public class RhinoMathProblem {
+public class MathSimulation {
     
     public static int countPermutations(int n) {
         HashSet<int[]> solutions = new HashSet<>();
