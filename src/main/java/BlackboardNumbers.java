@@ -28,21 +28,21 @@ public class BlackboardNumbers {
     /*
      * Implements a bag of 100 integers.
      */
-    public static class Bag<Integer> {
-        private Integer[] array;
+    public static class Bag<T> {
+        private int[] array;
         private int size;
 
         public Bag() {
-            array = (Integer[]) new Object[100];
+            array = new int[100];
             size = 0;
         }
 
-        public void add(Integer item) {
+        public void add(int item) {
             array[size++] = item;
         }
 
-        public Integer remove(int index) {
-            Integer item = array[index];
+        public int remove(int index) {
+            int item = array[index];
             for (int i = index; i < size - 1; i++) {
                 array[i] = array[i + 1];
             }
@@ -54,15 +54,13 @@ public class BlackboardNumbers {
             return size;
         }
 
-        public Integer get(int index) {
+        public int get(int index) {
             return array[index];
         }
 
         public boolean isDone() {
             for (int i = 0; i < size - 1; i++) {
-                int value = (int) array[i];
-                int nextValue = (int) array[i + 1];
-                if (value + 1 == nextValue) {
+                if (array[i] + 1 == array[i + 1]) {
                     return false;
                 }
             }
@@ -80,18 +78,6 @@ public class BlackboardNumbers {
             return sb.toString();
         }
 
-    }
-
-     /*
-      * Is the board done?
-      */
-    public static boolean isDone(boolean[] set) {
-        for (int i = 0; i < set.length - 1; i++) {
-            if (set[i] && set[i + 1]) {
-                return false;
-            }
-        }
-        return true;
     }
 
     public static void main(String[] args) {
