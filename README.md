@@ -35,4 +35,4 @@ LeetCode
 |4| Priority Queue Testing | [Java](./src/main/java/PriorityQueueTesting.java)
 |5| TreeSet Testing | [Java](./src/main/java/TreeSetTesting.java)
 |6| TreeSet HashMap Testing | [Java](./src/main/java/TreeSetHashMapTesting.java)
-[7] 100 Integers on the Blackboard Simulation | [Java](./src/main/java/BlackboardNumbers.java)
+|7| 100 Integers on the Blackboard Simulation | [Java](./src/main/java/BlackboardNumbers.java)
